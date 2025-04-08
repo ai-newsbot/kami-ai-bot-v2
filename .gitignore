@@ -1,0 +1,6 @@
+.env
+venv/
+log/
+__pycache__/
+*.log
+output/content.html
